@@ -1,0 +1,6 @@
+{
+  "name": "Wavie",
+  "description": "A high-fidelity premium Nigerian Fintech applet featuring simulated Monnify API integration for wallet systems, virtual accounts, money transfers, bill payments, verification, robust admin control, and an Gemini-powered AI financial advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
